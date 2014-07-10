@@ -1,0 +1,3 @@
+name: Wuni-t2
+main: com.tenjava.entries.Wuni.t2.TenJava
+version: '${project.version}'
